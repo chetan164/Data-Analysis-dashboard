@@ -24,7 +24,8 @@ Dashboard Interaction<a href="https://github.com/chetan164/Data-Analysis-dashboa
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-![vrinda sales Store-ss](https://github.com/user-attachments/assets/8837ef15-d899-40a3-a566-603026a506f4)
+![dashboaerd_res](https://github.com/user-attachments/assets/b549ab9a-b64e-4f22-84a3-e2b5c29f3342)
+
 
 
 
