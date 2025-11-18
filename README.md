@@ -16,7 +16,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-Dashboard Interaction<a href="https://github.com/chetan164/Data-Analysis-dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20P.xlsx">
+Dashboard Interaction <a href="https://github.com/chetan164/Data-Analysis-dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20P.xlsx">Data</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -39,7 +39,7 @@ Dashboard Interaction<a href="https://github.com/chetan164/Data-Analysis-dashboa
 
 - More than 90% of the products delivered
 
-  ##Final Conclusion:
+## Final Conclusion:
 
 To Improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
